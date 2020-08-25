@@ -1,0 +1,7 @@
+Timer.cpp:7:1:Timer::Timer(uint32_t)	16	static
+Timer.cpp:9:1:Timer::~Timer()	16	static
+Timer.cpp:11:6:void Timer::init()	64	static
+Timer.cpp:44:6:void Timer::Start()	16	static
+Timer.cpp:48:10:uint32_t Timer::GetCounter()	16	static
+Timer.cpp:52:6:void Timer::EnableInterrupt(uint32_t, uint32_t)	24	static
+Timer.cpp:72:6:void Timer::ClearFlag()	16	static

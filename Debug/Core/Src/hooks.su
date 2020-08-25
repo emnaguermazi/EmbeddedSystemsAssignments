@@ -1,0 +1,2 @@
+hooks.cpp:5:6:void SysTick_Handler()	8	static
+hooks.cpp:11:6:void EXTI0_IRQHandler()	8	static
